@@ -1,5 +1,9 @@
 ## Available Scripts
 
+### Clone the project
+
+Download the project to your local machine by cloning using the link `https://github.com/Rai-Nishhant/assignment.git`
+
 In the project directory, you can run:
 
 ### `npm install`
